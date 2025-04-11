@@ -1,4 +1,4 @@
-# Homework
+# OPEN-SOURCE-OPERATING-SYSTEMS
 1. Write the command used to display information about the package manager (apt)?
 
 Command:
